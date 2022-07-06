@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tamrin4-15", "Tamrin4-15\Tamrin4-15.csproj", "{B08B6C71-A02A-4932-A1CE-9989C26FF36C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B08B6C71-A02A-4932-A1CE-9989C26FF36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08B6C71-A02A-4932-A1CE-9989C26FF36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08B6C71-A02A-4932-A1CE-9989C26FF36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08B6C71-A02A-4932-A1CE-9989C26FF36C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F261178-36D8-4EB0-8439-358A1D76D9C0}
+	EndGlobalSection
+EndGlobal
